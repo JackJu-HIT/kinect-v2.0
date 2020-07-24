@@ -3,8 +3,8 @@
 运行kinect2_bridge节点
 再运行rosrun kinect2_viewer kinect_viewer
 可以实现鼠标点在图中实时显示位置坐标和距离。
-
-## Maintainer
+具体信息参见我博客https://blog.csdn.net/qq_40464599/article/details/107557651
+##维护者
 
 - [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
 
